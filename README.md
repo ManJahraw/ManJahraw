@@ -1,4 +1,5 @@
-My name is Clifford ## Hi there 👋
+Hi there 👋
+My name is Cliff and welcome to my profile. I am a Business Analyst with experience in process analysis, business intelligence and customer experience in a large corporate setting with exposure to international markets. Exposure to BI and task management tools e.g. SQL, PowerBI, Jira, SharePoint to report live data via system automated reporting. Strategy advisory based on data analysis and process deficiency diagnosis via mapping. Strong corporate industry background in Fund Admin, System training (Billing), Fund Terminations and Retention Data reporting. Kindly follow through to view samples of my projects.
 
 <!--
 **ManJahraw/ManJahraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
